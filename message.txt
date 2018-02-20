@@ -1,0 +1,52 @@
+
+Full-name: 
+
+First-name: 
+
+IRC-Nick: 
+
+Main-programming-language: 
+
+# comma separated:
+Other-programming-languages: 
+
+
+# create alioth account here: https://alioth.debian.org/account/register.php
+Alioth-username: 
+
+
+# create Wiki account here: https://wiki.debian.org/FrontPage?action=newaccount
+Wiki-username: 
+
+Blog: 
+
+Github-profile: 
+
+
+# Provide full name and email address.  You may repeat this line multiple times
+# if you have more than one person willing to be a co-mentor.
+Potential-co-mentor: 
+
+Graduation-date: YYYY-MM-DD
+
+University: 
+
+City: 
+
+Country: 
+
+
+# type GSoC, Outreachy or Both if you are eligible:
+
+Program: 
+
+
+# any other organizations or internships you are applying for
+
+Other-applications:
+
+
+# any other details
+
+Other: 
+
