@@ -11,8 +11,8 @@ Main-programming-language:
 Other-programming-languages: 
 
 
-# create alioth account here: https://alioth.debian.org/account/register.php
-Alioth-username: 
+# create salsa account here: https://signup.salsa.debian.org/
+Salsa-username: 
 
 
 # create Wiki account here: https://wiki.debian.org/FrontPage?action=newaccount
